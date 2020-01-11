@@ -11,4 +11,6 @@ class Api extends CI_Controller
 	{
 		parent::__construct();
 	}
+
+	//Comment
 }

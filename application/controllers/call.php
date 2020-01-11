@@ -5,4 +5,8 @@ class Call extends CI_Controller {
 	public function __construct() {
         parent::__construct();
     }
+
+    function index(){
+    	echo "Hello Home";
+    }
 }
